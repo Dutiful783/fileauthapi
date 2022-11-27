@@ -1,0 +1,2 @@
+20221028	19:52:04	e90960de-cf1b-437b-9fb8-7cfd3a8d272f	Error : Not allowed by CORS
+20221102	13:36:22	965a1b4d-09e1-42d6-9066-177432f685a4	SyntaxError : Unexpected token ' in JSON at position 2
